@@ -1,5 +1,12 @@
 # pymentorbot
 
+![PyPI version](https://img.shields.io/pypi/v/pymentorbot)
+![Python Version](https://img.shields.io/pypi/pyversions/pymentorbot)
+![License](https://img.shields.io/github/license/austinewoody/pymentorbot)
+![Downloads](https://img.shields.io/pypi/dm/pymentorbot)
+
+Beginner-friendly Python learning assistant package...
+
 **pymentorbot** is a beginner-friendly Python learning assistant package.
 
 It explains Python keywords, built-in functions, common errors, and programming concepts in simple language.
