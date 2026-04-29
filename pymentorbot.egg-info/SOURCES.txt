@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pymentorbot_cli.py
+setup.py
+pymentorbot/__init__.py
+pymentorbot/core.py
+pymentorbot.egg-info/PKG-INFO
+pymentorbot.egg-info/SOURCES.txt
+pymentorbot.egg-info/dependency_links.txt
+pymentorbot.egg-info/entry_points.txt
+pymentorbot.egg-info/top_level.txt
